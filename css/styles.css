@@ -574,6 +574,7 @@ progress {
 
 .list-inline-item {
   display: inline-block;
+  padding-inline: 0.1rem;
 }
 .list-inline-item:not(:last-child) {
   margin-right: 0rem;
@@ -11416,7 +11417,7 @@ p.lead {
 .rounded-text-box {
   border-radius: 10px;
   background: #E7E7E7;
-  padding: 0.5rem;
+  padding: 0.6rem;
   font-size: 1.2rem;
   font-weight: 400;
   color: #343a40;
